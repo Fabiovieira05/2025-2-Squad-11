@@ -1,0 +1,6 @@
+[submodule "doks"]
+	path = doks
+	url = https://github.com/thuliteio/doks.git
+[submodule "gh-pages/themes/doks-hugo"]
+	path = gh-pages/themes/doks-hugo
+	url = https://github.com/thuliteio/doks.git
